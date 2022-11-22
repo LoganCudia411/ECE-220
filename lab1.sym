@@ -1,0 +1,14 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	FOUR_LOOP         3008
+//	CHECK_BITS        300B
+//	FALSE_S           3010
+//	TRUE_S            3014
+//	NINE_LOOP         3018
+//	TRUE_N            301D
+//	FALSE_N           3025
+//	DONE              302E
+//	VALUE             302F
+
