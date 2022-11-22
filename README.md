@@ -1,2 +1,2 @@
 # C_projects
-Supplemental projects and practice
+Supplemental projects and practice from ECE 220
